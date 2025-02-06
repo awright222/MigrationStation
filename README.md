@@ -1,6 +1,6 @@
 # Migration Station
 
-Migration Station is a vacation rental clone project
+Migration Station is a vacation rental clone project using Express, SQL, React, Redux.
 
 ![migration station](migration_station.png)
 
