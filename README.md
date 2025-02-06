@@ -6,7 +6,7 @@ Migration Station is a vacation rental clone project using Express, SQL, React, 
 
 ## Database Schema Design
 
-![migration station](migration-station.png)
+![migration station](Winding-Down.png)
 
 # Find Me!
 [Portfolio](https://www.alexwrightportfolio.com/)  | [Project](https://migrationstation-yv8v.onrender.com/)  | [LinkedIn](www.linkedin.com/in/alexgwright2)  | [GitHub](https://github.com/awright222)
