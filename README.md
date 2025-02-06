@@ -1,10 +1,15 @@
-# `Winding-Down`
+# Migration Station
+
+Migration Station is a vacation rental clone project
+
+![migration station](migration_station.png)
 
 ## Database Schema Design
 
-`<insert database schema design here>`
+![migration station](mirgration-station.png)
 
-![Alt text](Winding-Down.png)
+# Find Me!
+[Portfolio](https://www.alexwrightportfolio.com/)  | [Project](https://migrationstation-yv8v.onrender.com/)  | [LinkedIn](www.linkedin.com/in/alexgwright2)  | [GitHub](https://github.com/awright222)
 
 ## API Documentation
 
