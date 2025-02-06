@@ -6,7 +6,7 @@ Migration Station is a vacation rental clone project
 
 ## Database Schema Design
 
-![migration station](mirgration-station.png)
+![migration station](migration-station.png)
 
 # Find Me!
 [Portfolio](https://www.alexwrightportfolio.com/)  | [Project](https://migrationstation-yv8v.onrender.com/)  | [LinkedIn](www.linkedin.com/in/alexgwright2)  | [GitHub](https://github.com/awright222)
