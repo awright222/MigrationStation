@@ -1,4 +1,4 @@
-## formerly `Winding-Down`
+## `Winding-Down`
 # Migration Station
 
 Migration Station is a vacation rental clone project using Express, SQL, React, Redux.
